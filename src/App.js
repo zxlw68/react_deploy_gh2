@@ -9,7 +9,11 @@ import apiRequest from './apiRequest'
 
 function App() {
 
-  const API_URL = 'http://localhost:3500/items'
+  // const API_URL = 'http://localhost:3500/items'
+
+  const API_URL = 'https://my-json-server.typicode.com/zxlw68/react_deploy_gh2_json/items'
+
+  
    
 
 
